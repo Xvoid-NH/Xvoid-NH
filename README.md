@@ -30,8 +30,8 @@ const me = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Xvoid-NH=Xvoid-NH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Xvoid-NH=Xvoid-NH&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xvoid-NH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xvoid-NH&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ## 🌐 Connect with Me
@@ -43,7 +43,7 @@ const me = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Xvoid-NH&color=blueviolet&style=flat-square&label=Profile+Views" />
   
   **Thanks for visiting! 🚀**
 </div>
