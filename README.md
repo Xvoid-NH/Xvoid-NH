@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm **Xvoid-NH**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+Vue+Expert;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=50&font=Fira%20Code&size=20&color=58a6ff&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+Vue+Expert;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=50&font=Fira%20Code&size=20&color=58a6ff&vCenter=true&background=0d1117">
 </div>
 
 ---
@@ -80,12 +80,12 @@ const xvoidNH = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xvoid-NH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xvoid-NH&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xvoid-NH&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xvoid-NH&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xvoid-NH&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xvoid-NH&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 ---
@@ -114,7 +114,7 @@ const xvoidNH = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xvoid-NH&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Xvoid-NH&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
